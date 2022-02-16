@@ -1,0 +1,10 @@
+{
+    "java.format.settings.url": "eclipse-formatter.xml",
+    "java.project.referencedLibraries": [
+        "~/Java/junit-platform-console-standalone-1.8.1.jar"
+    ],
+    "java.project.sourcePaths": [
+        "src",
+        "."
+    ]
+}
